@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Steve's Madness
 
 ![imgs](https://i.imgur.com/bvj6SLa.gif)
 
 You can use the [editor on GitHub](https://github.com/Sailendra-R-D/MY_WEB_SITE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+![imga](https://www.magicalquote.com/wp-content/uploads/2016/08/Everyone-has-their-own-ifthen-conditional-programming-a-situation-where-if-certain-conditions-are-met-then-a-logic-bomb-detonates.jpg)
 
 ### Markdown
 
