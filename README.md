@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![imgs](https://thumbs.gfycat.com/LawfulScaredGilamonster-size_restricted.gif)
+![imgs](https://i.imgur.com/bvj6SLa.gif)
 
 You can use the [editor on GitHub](https://github.com/Sailendra-R-D/MY_WEB_SITE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
